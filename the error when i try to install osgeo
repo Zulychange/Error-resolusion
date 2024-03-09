@@ -1,0 +1,7 @@
+'''
+when i try to install osgeo,i have one error: Could not build wheels for osgeo, which is required to install pyproject.toml-based projects
+
+Even i have install pyproject.toml ,this error still exist.
+so i went to csdn find a resolusion
+in this interlinkage:"https://blog.csdn.net/Coder_J7/article/details/130797427?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522170994623916800188541545%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=170994623916800188541545&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-130797427-null-null.142^v99^pc_search_result_base1&utm_term=osgeo%E5%AE%89%E8%A3%85%E4%B8%8D%E4%B8%8B%E6%9D%A5&spm=1018.2226.3001.4187"
+'''
